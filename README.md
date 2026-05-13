@@ -1,7 +1,7 @@
 ## OpenGL-3D-Game
 
 3D Image Synthesis Project
-Module: TSI (Signal and Image Processing)
+Module:  TSI (Signal and Image Processing)
 Authors: Lucic Arthus, De la chapelle Jean
 
 ## Project Overview
